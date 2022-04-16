@@ -1,0 +1,44 @@
+.aaa{
+	padding: 25% 0 0 0;
+}
+
+.title {
+	margin-top: -25px;
+	text-align: center;
+
+}
+
+.accueildiv{
+	margin: 0 3% 3% 3%;
+	text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+
+}
+
+
+.accueiltext{
+	text-align: justify;
+
+}
+
+#divinter{
+	border-right: solid thin;
+	border-left: solid thin;
+	margin: 0 0 3% 3%;
+}
+
+#row2{
+	margin-top: 0;
+}
+
+#tout{
+	background-image: url(../images/accueilfade.png);
+	background-repeat:  no-repeat;
+	background-size: cover;
+	margin-top: -3%;
+}
+.responsiveImage{
+    width: 80%;
+    height: auto;
+}
